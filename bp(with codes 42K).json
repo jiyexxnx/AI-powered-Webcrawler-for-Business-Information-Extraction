@@ -1,0 +1,606 @@
+[
+  {
+    "address": {
+      "city": "Göppingen",
+      "country": "DE",
+      "houseNumber": "9",
+      "postalCode": "73037",
+      "street": "Esslinger Str."
+    },
+    "industryCodeList": ["NACE2-60.10"],
+    "key": "supplier-os-org-alb-fils~8003503",
+    "name": "Filstalwelle TV, Göppingen",
+    "webside": "https://www.filstalwelle.de"
+  },
+  {
+    "address": {
+      "city": "Herborn",
+      "country": "DE",
+      "houseNumber": "1662",
+      "postalCode": "35726",
+      "street": "Postfach"
+    },
+    "industryCodeList": ["NACE2-26.11"],
+    "key": "supplier-os-org-alb-fils~8003995",
+    "name": "Rittal, Herborn",
+    "webside": "https://www.rittal.com/de-de/"
+  },
+  {
+    "address": {
+      "city": "Denzlingen",
+      "country": "DE",
+      "houseNumber": "2",
+      "postalCode": "79211",
+      "street": "Robert-Bosch-Strasse"
+    },
+    "industryCodeList": ["NACE2-22.29"],
+    "key": "supplier-os-org-villigersoehne~8377",
+    "name": "PIOFLEX GmbH",
+    "webside": "https://www.pioflex.de"
+  },
+  {
+    "address": {
+      "city": "Hamburg",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "20539",
+      "street": "Mühlenhagen 85"
+    },
+    "industryCodeList": [
+      "NACE2-32.50",
+      "NACE2-46.46",
+      "NACE2-17.22",
+      "NACE2-20.20",
+      "NACE2-20.41"
+    ],
+    "key": "supplier-os-org-vinzenz~10046",
+    "name": "WEIGERT Chemische Fabrik",
+    "webside": "https://www.drweigert.com/de"
+  },
+  {
+    "address": {
+      "city": "Nürnberg",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "90419",
+      "street": "Nordwestring 201"
+    },
+    "industryCodeList": ["NACE2-46.39"],
+    "key": "supplier-os-org-vinzenz~10050",
+    "name": "FRONERI Schöller GmbH",
+    "webside": "https://www.froneri-schoeller.de"
+  },
+  {
+    "address": {
+      "city": "Rastatt",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "76437",
+      "street": "Kehler Straße 31"
+    },
+    "industryCodeList": ["NACE2-32.50", "NACE2-46.46"],
+    "key": "supplier-os-org-vinzenz~10091",
+    "name": "Getinge Deutschland GmbH (ehem. Maquet)",
+    "webside": "https://www.maquet.com"
+  },
+  {
+    "address": {
+      "city": "Stuttgart",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "70190",
+      "street": "Neckarstraße 182"
+    },
+    "industryCodeList": ["NACE2-32.50", "NACE2-46.46", "NACE2-20.11"],
+    "key": "supplier-os-org-vinzenz~10127",
+    "name": "KRAISS & FRIZ",
+    "webside": "https://www.kraissundfriz.de/"
+  },
+  {
+    "address": {
+      "city": "Hof",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "95032",
+      "street": "Südring 84"
+    },
+    "industryCodeList": ["NACE2-46.46"],
+    "key": "supplier-os-org-vinzenz~10168",
+    "name": "medika Medizintechnik GmbH",
+    "webside": "https://www.medika.de"
+  },
+  {
+    "address": {
+      "city": "Freiburg i. Breisgau",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "79100",
+      "street": "Heinrich-von-Stephan-Straße 17"
+    },
+    "industryCodeList": ["NACE2-32.50", "NACE2-46.46"],
+    "key": "supplier-os-org-vinzenz~10172",
+    "name": "Alcon Deutschland GmbH",
+    "webside": "https://www.de.alcon.com"
+  },
+  {
+    "address": {
+      "city": "Norderstedt",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "78554",
+      "street": "Uhlandstraße 49"
+    },
+    "industryCodeList": ["NACE2-32.50", "NACE2-46.46"],
+    "key": "supplier-os-org-vinzenz~10253",
+    "name": "ASP Deutschland GmbH",
+    "webside": "https://www.asp.com"
+  },
+  {
+    "address": {
+      "city": "BN Zutphen",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "7207",
+      "street": "Hekkehorst 24"
+    },
+    "industryCodeList": ["NACE2-32.50", "NACE2-46.46"],
+    "key": "supplier-os-org-vinzenz~10294",
+    "name": "Microtek Medical B.V.",
+    "webside": "https://www.ecolabhealthcare.de"
+  },
+  {
+    "address": {
+      "city": "Brehna",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "06796",
+      "street": "Münchener Straße 15"
+    },
+    "industryCodeList": ["NACE2-21.20"],
+    "key": "supplier-os-org-vinzenz~10334",
+    "name": "Mibe GmbH Arzneimittel",
+    "webside": "https://www.mibe.de"
+  },
+  {
+    "address": {
+      "city": "Karben",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "61184",
+      "street": "Industriestraße 1"
+    },
+    "industryCodeList": ["NACE2-31.09"],
+    "key": "supplier-os-org-vinzenz~10415",
+    "name": "KÖNIG + NEURATH AG",
+    "webside": "https://www.koenig-neurath.de"
+  },
+  {
+    "address": {
+      "city": "Kiel",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "24103",
+      "street": "Fabrikstraße 7"
+    },
+    "industryCodeList": ["NACE2-21.20"],
+    "key": "supplier-os-org-vinzenz~10456",
+    "name": "Ferring Arzneimittel GmbH",
+    "webside": "https://www.ferring.de"
+  },
+  {
+    "address": {
+      "city": "Düsseldorf",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "40549",
+      "street": "Monschauer Straße 1"
+    },
+    "industryCodeList": ["NACE2-21.20"],
+    "key": "supplier-os-org-vinzenz~10460",
+    "name": "Kyowa Kirin GmbH",
+    "webside": "https://www.kyowa-kirin.com/"
+  },
+  {
+    "address": {
+      "city": "Lensahn",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "23738",
+      "street": "Zum Windpark 1"
+    },
+    "industryCodeList": ["NACE2-32.50", "NACE2-46.46"],
+    "key": "supplier-os-org-vinzenz~10497",
+    "name": "Key Surgical GmbH",
+    "webside": "https://www.interlockmed.com"
+  },
+  {
+    "address": {
+      "city": "Minden",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "32429",
+      "street": "Paul-Ehrlich-Straße 16"
+    },
+    "industryCodeList": ["NACE2-46.46"],
+    "key": "supplier-os-org-vinzenz~10500",
+    "name": "Asmuth GmbH Medizintechnik",
+    "webside": "https://www.asmuth-gmbh.de"
+  },
+  {
+    "address": {
+      "city": "Pliezhausen",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "72124",
+      "street": "Wilhelm-Schickard-Straße 7"
+    },
+    "industryCodeList": ["NACE2-46.52"],
+    "key": "supplier-os-org-vinzenz~10618",
+    "name": "DATAGROUP Stuttgart GmbH",
+    "webside": "https://www.datagroup.de"
+  },
+  {
+    "address": {
+      "city": "Hechingen",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "72379",
+      "street": "Lotzenäcker 23"
+    },
+    "industryCodeList": ["NACE2-32.50", "NACE2-46.46"],
+    "key": "supplier-os-org-vinzenz~10622",
+    "name": "Artivion Inc. (ehem. Jotec GmbH)",
+    "webside": "https://www.jotec.com"
+  },
+  {
+    "address": {
+      "city": "Leverkusen",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "51377",
+      "street": "Hemmelrather Weg 201"
+    },
+    "industryCodeList": ["NACE2-21.20"],
+    "key": "supplier-os-org-vinzenz~10659",
+    "name": "SUN Pharmaceuticals Germany GmbH",
+    "webside": "https://www.sunpharma.com"
+  },
+  {
+    "address": {
+      "city": "Schwabach",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "91126",
+      "street": "Breitenfeldstraße 46"
+    },
+    "industryCodeList": ["NACE2-32.50", "NACE2-46.46"],
+    "key": "supplier-os-org-vinzenz~10703",
+    "name": "MPS Medizinphysik + Strahlenschutz GmbH",
+    "webside": "https://www.strahlenschutz-nuernberg.de"
+  },
+  {
+    "address": {
+      "city": "Landshut",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "84034",
+      "street": "Müller-Armack-Str. 6"
+    },
+    "industryCodeList": ["NACE2-17.21"],
+    "key": "supplier-os-org-wackerneuson~1010201",
+    "name": "Antalis Verpackungen GmbH",
+    "webside": "https://www.antalis-verpackungen.de"
+  },
+  {
+    "address": {
+      "city": "München",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "81677",
+      "street": "Hohenlindener Str. 6"
+    },
+    "industryCodeList": ["NACE2-24.10"],
+    "key": "supplier-os-org-wackerneuson~1010567",
+    "name": "Max Cochius GmbH",
+    "webside": "https://www.cochius.de"
+  },
+  {
+    "address": {
+      "city": "Wuppertal",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "42279",
+      "street": "Bochumer Str. 13"
+    },
+    "industryCodeList": ["NACE2-17.21"],
+    "key": "supplier-os-org-wackerneuson~1011381",
+    "name": "Brüninghaus",
+    "webside": "https://www.brueninghaus.net"
+  },
+  {
+    "address": {
+      "city": "Straubing",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "94315",
+      "street": "Am Kronsteig 8"
+    },
+    "industryCodeList": ["NACE2-26.11"],
+    "key": "supplier-os-org-wackerneuson~1011831",
+    "name": "SEMICOMP GmbH",
+    "webside": "https://www.carlingtech.com"
+  },
+  {
+    "address": {
+      "city": "Erkrath",
+      "country": "DE",
+      "houseNumber": "23",
+      "postalCode": "40699",
+      "street": "Max-Planck-Str."
+    },
+    "industryCodeList": ["NACE2-28.15"],
+    "key": "supplier-os-org-wackerneuson~1012597",
+    "name": "NTN Waelzlager",
+    "webside": "https://www.ntn-europa.com"
+  },
+  {
+    "address": {
+      "city": "Norderstedt",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "22851",
+      "street": "Hans-Böckler-Ring 47"
+    },
+    "industryCodeList": ["NACE2-49.41"],
+    "key": "supplier-os-org-wackerneuson~1013244",
+    "name": "Enorica GmbH",
+    "webside": "https://www.enorica.de"
+  },
+  {
+    "address": {
+      "city": "Cavalli di Collecchio",
+      "country": "IT",
+      "houseNumber": "",
+      "postalCode": "43044",
+      "street": "Via Balestrieri, 1 (PR)"
+    },
+    "industryCodeList": ["NACE2-28.12"],
+    "key": "supplier-os-org-wackerneuson~1015071",
+    "name": "CASAPPA S.p.A",
+    "webside": "https://www.casappa.de"
+  },
+  {
+    "address": {
+      "city": "Leningrad Region",
+      "country": "RU",
+      "houseNumber": "",
+      "postalCode": "188506",
+      "street": ""
+    },
+    "industryCodeList": ["NACE2-45.31"],
+    "key": "supplier-os-org-wackerneuson~4725483338",
+    "name": "BONENKAMP LLC",
+    "webside": "https://bohnenkamp-russia.ru"
+  },
+  {
+    "address": {
+      "city": "Weilheim an der Teck",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "73235",
+      "street": "Jahnstr. 9"
+    },
+    "industryCodeList": ["NACE2-29.32"],
+    "key": "supplier-os-org-wackerneuson~6012255",
+    "name": "Wilhelm Kächele GmbH",
+    "webside": "https://www.w-kaechele.de"
+  },
+  {
+    "address": {
+      "city": "Moscow",
+      "country": "RU",
+      "houseNumber": "",
+      "postalCode": "123112",
+      "street": ""
+    },
+    "industryCodeList": ["NACE2-62.01"],
+    "key": "supplier-os-org-wackerneuson~7704340310",
+    "name": "YANDEKS.TAKSI LLC",
+    "webside": "https://taxi.yandex.ru"
+  },
+  {
+    "address": {
+      "city": "Moscow",
+      "country": "RU",
+      "houseNumber": "",
+      "postalCode": "127566",
+      "street": ""
+    },
+    "industryCodeList": ["NACE2-45.30"],
+    "key": "supplier-os-org-wackerneuson~7704815845",
+    "name": "DOYTTS VOSTOK LLC",
+    "webside": "https://deutz.ru"
+  },
+  {
+    "address": {
+      "city": "Wien",
+      "country": "AT",
+      "houseNumber": "213-",
+      "postalCode": "1120",
+      "street": "Schönbrunner Straße"
+    },
+    "industryCodeList": ["NACE2-73.11"],
+    "key": "supplier-os-org-wackerneuson~8000114",
+    "name": "Walls.io GmbH",
+    "webside": "https://office@walls.io"
+  },
+  {
+    "address": {
+      "city": "München",
+      "country": "DE",
+      "houseNumber": "2",
+      "postalCode": "81541",
+      "street": "Aurbacherstr."
+    },
+    "industryCodeList": ["NACE2-62.02"],
+    "key": "supplier-os-org-wackerneuson~8000196",
+    "name": "webXcerpt Software GmbH",
+    "webside": "https://info@webXcerpt.com"
+  },
+  {
+    "address": {
+      "city": "Waldbrunn",
+      "country": "DE",
+      "houseNumber": "1",
+      "postalCode": "69429",
+      "street": "Gerd-Mosca-Straße"
+    },
+    "industryCodeList": ["NACE2-17.21"],
+    "key": "supplier-os-org-wackerneuson~8000358",
+    "name": "MOSCA Sales & Service GmbH & Co. KG",
+    "webside": "https://spareparts@mosca.com"
+  },
+  {
+    "address": {
+      "city": "Paderborn",
+      "country": "DE",
+      "houseNumber": "24",
+      "postalCode": "33104",
+      "street": "Otto-Hahn-Straße"
+    },
+    "industryCodeList": ["NACE2-81.10"],
+    "key": "supplier-os-org-wackerneuson~8000399",
+    "name": "Romberg Elektrotechnik GmbH",
+    "webside": "https://info@romberg-elektrotechnik.de"
+  },
+  {
+    "address": {
+      "city": "Potsdam",
+      "country": "DE",
+      "houseNumber": "100",
+      "postalCode": "14469",
+      "street": "Max-Eyth-Allee"
+    },
+    "industryCodeList": ["NACE2-72.19"],
+    "key": "supplier-os-org-wackerneuson~8000524",
+    "name": "Leibniz-Institut für Agrartechnik u",
+    "webside": "https://tbraunwarth@atb-potsdam.de"
+  },
+  {
+    "address": {
+      "city": "Weinsberg",
+      "country": "DE",
+      "houseNumber": "9",
+      "postalCode": "74189",
+      "street": "Linsenbergstrasse"
+    },
+    "industryCodeList": ["NACE2-72.19"],
+    "key": "supplier-os-org-wackerneuson~8000565",
+    "name": "GRATZ Engineering GmbH",
+    "webside": "https://Dominique.Schluepmann@gratz.de"
+  },
+  {
+    "address": {
+      "city": "CHATSWORTH",
+      "country": "US",
+      "houseNumber": "",
+      "postalCode": "91311",
+      "street": "Eton Avenue9248"
+    },
+    "industryCodeList": ["NACE2-26.11"],
+    "key": "supplier-os-org-wackerneuson~8000605",
+    "name": "Delaware Electro Industries, Inc",
+    "webside": "https://sroth@fusesunlimited.com"
+  },
+  {
+    "address": {
+      "city": "Garching b. München",
+      "country": "DE",
+      "houseNumber": "2",
+      "postalCode": "85748",
+      "street": "Parkring"
+    },
+    "industryCodeList": ["NACE2-70.22"],
+    "key": "supplier-os-org-wackerneuson~8000650",
+    "name": "BLSG AG",
+    "webside": "https://office@blsg.de"
+  },
+  {
+    "address": {
+      "city": "Wiener Neudorf",
+      "country": "AT",
+      "houseNumber": "16",
+      "postalCode": "2531",
+      "street": "Brown-Boveri-Straße"
+    },
+    "industryCodeList": ["NACE2-72.19"],
+    "key": "supplier-os-org-wackerneuson~8000687",
+    "name": "AVILOO GmbH",
+    "webside": "https://einkauf@aviloo.com"
+  },
+  {
+    "address": {
+      "city": "München",
+      "country": "DE",
+      "houseNumber": "47",
+      "postalCode": "80333",
+      "street": "Brienner Straße"
+    },
+    "industryCodeList": ["NACE2-78.10"],
+    "key": "supplier-os-org-wackerneuson~8000731",
+    "name": "Akademie Handel e.V.",
+    "webside": "https://mareike.vanderoest@akademie-handel.de"
+  },
+  {
+    "address": {
+      "city": "Brookfield",
+      "country": "US",
+      "houseNumber": "1389",
+      "postalCode": "53005",
+      "street": "BISHOPS DRIVE"
+    },
+    "industryCodeList": ["NACE2-78.10"],
+    "key": "supplier-os-org-wackerneuson~8000768",
+    "name": "LIVING AS A LEADER",
+    "webside": "https://dwolter@livingasaleader.com"
+  },
+  {
+    "address": {
+      "city": "Gemünden a. Main",
+      "country": "DE",
+      "houseNumber": "114",
+      "postalCode": "97737",
+      "street": "Karlstadter Straße"
+    },
+    "industryCodeList": ["NACE2-43.29"],
+    "key": "supplier-os-org-wackerneuson~8000772",
+    "name": "SUNrapido Solar GmbH",
+    "webside": "https://info@sunrapidosolar.com"
+  },
+  {
+    "address": {
+      "city": "Alcúdia - Es Barcarès",
+      "country": "ES",
+      "houseNumber": "11 /",
+      "postalCode": "07400",
+      "street": "Passeig Voramar"
+    },
+    "industryCodeList": ["NACE2-62.02"],
+    "key": "supplier-os-org-wackerneuson~8000808",
+    "name": "Maximilian Weichelt",
+    "webside": "https://max@weichelt-net.de"
+  },
+  {
+    "address": {
+      "city": "Hohenwart",
+      "country": "DE",
+      "houseNumber": "3",
+      "postalCode": "86558",
+      "street": "Gutenbergstraße"
+    },
+    "industryCodeList": ["NACE2-49.41"],
+    "key": "supplier-os-org-wackerneuson~8001046",
+    "name": "Alfred Amenda & Sohn Transport GmbH",
+    "webside": "https://info@amendagmbh.de"
+  }
+]
