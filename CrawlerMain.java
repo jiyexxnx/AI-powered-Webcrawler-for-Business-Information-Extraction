@@ -8,9 +8,9 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 
 
-public class HelloWorld {
+public class CrawlerMain {
     public static void main(String[] args) {
-        String strJson = JsonParser.getJSONFromFile("C:/Doks/Teamprojekt/bp(with codes 42K).json");
+        String strJson = JsonParser.getJSONFromFile("bp(with codes 42K).json");
         ArrayList<String> urls = new ArrayList<>();        
         try {
             JSONParser parser = new JSONParser();
@@ -39,17 +39,21 @@ public class HelloWorld {
     }
 
     private static Document request(String url, ArrayList<String> v) {
+        if (url.endsWith("/")) url.substring(0, url.length() - 1);
         try{
-            Connection con = Jsoup.connect(url);
-            Document doc = con.get();
-
-            if(con.response().statusCode() == 200) {
-                System.out.println("Link: " + url);
+            if(Jsoup.connect(url + "/ueber-uns").response().statusCode() == 200){
+                Document doc = Jsoup.connect(url + "/ueber-uns").get();
+            }
+            if(Jsoup.connect(url + "/Unternehmen").response().statusCode() == 200){
+                Document doc = Jsoup.connect(url + "/Unternehmen").get();
+            }
+            if(Jsoup.connect(url + "/about-us").response().statusCode() == 200){
+                Document doc = Jsoup.connect(url + "/about-us").get();
             }
             return null;
         }
         catch(IOException e) {
-            System.out.println("Not available: " + url)
+            System.out.println("Not available: " + url);
             return null;
     }
 }
